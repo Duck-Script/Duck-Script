@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="GitHub Banner" />
-</p>
-
 <h1 align="center">Ahoy! 🏴‍☠️</h1>
 
 <p align="center">
@@ -12,22 +8,14 @@
   HTML • CSS • JavaScript • React • WordPress
 </p>
 
-<p align="center">
-  Building clean interfaces and growing every day.
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
 Computer Science student at WSIZ, Poland.
-
 Focused on frontend development and building responsive, user-friendly websites.
-
 Experienced with **HTML, CSS, JavaScript**, basic **WordPress** website building, and currently learning **React**.
-
-Also skilled in UI design using **Figma** and **Adobe Illustrator**.
-
+Skilled in UI design using **Figma** and **Adobe Illustrator**.
 Currently working on a real-world website project for a driving school business based in New York, USA.
 
 ---
@@ -36,11 +24,22 @@ Currently working on a real-world website project for a driving school business 
 
 #### 💻 Development
 
-<p align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" /></p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" />
+</p>
 
 #### 🎨 Design & 3D
 
-<p align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="42" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="42" />
+</p>
 
 ---
 
