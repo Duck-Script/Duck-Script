@@ -1,21 +1,22 @@
 <h1 align="center">Ahoy! 🏴‍☠️</h1>
 
-<p align="center">
-  <strong>Frontend Developer • Computer Science Student</strong>
-</p>
+<br>
 
-<p align="center">
-  HTML • CSS • JavaScript • React • WordPress
-</p>
+<h3 align="center">● Frontend Developer ●</h3>
+
+<br>
 
 ---
 
 ### 👨‍💻 About Me
 
 Computer Science student at WSIZ, Poland.
+
 Focused on frontend development and building responsive, user-friendly websites.
+
 Experienced with **HTML, CSS, JavaScript**, basic **WordPress** website building, and currently learning **React**.
 Skilled in UI design using **Figma** and **Adobe Illustrator**.
+
 Currently working on a real-world website project for a driving school business based in New York, USA.
 
 ---
@@ -45,8 +46,7 @@ Currently working on a real-world website project for a driving school business 
 
 ### 🚀 Future Growth & Interests
 
-- Focused on frontend development and building clean, responsive, user-friendly web interfaces
-- Interested in combining custom frontend development with CMS solutions like WordPress
+- Focused on frontend development and building user-friendly web interfaces
 - Expanding into backend development with C#, ASP.NET Core and APIs
 - Interested in embedded systems and ESP32 projects
 - Basic Blender knowledge and 3D tools
@@ -67,9 +67,9 @@ Currently working on a real-world website project for a driving school business 
 
 ### 🌍 Languages
 
-- Ukrainian — Native
 - Polish — B2
 - English — B2
+- Ukrainian — Native
 
 ---
 
@@ -77,7 +77,6 @@ Currently working on a real-world website project for a driving school business 
 
 - Frontend Internship
 - Junior Frontend Developer opportunities
-- WordPress / website development projects
 - Real-world experience in a development team
 - Opportunities to learn and improve my skills
 
