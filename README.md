@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="GitHub Banner" />
+</p>
+
 <h1 align="center">Ahoy! 🏴‍☠️</h1>
 
 <p align="center">
@@ -5,7 +9,11 @@
 </p>
 
 <p align="center">
-  HTML • CSS • JavaScript • React
+  HTML • CSS • JavaScript • React • WordPress
+</p>
+
+<p align="center">
+  Building clean interfaces and growing every day.
 </p>
 
 ---
@@ -16,11 +24,11 @@ Computer Science student at WSIZ, Poland.
 
 Focused on frontend development and building responsive, user-friendly websites.
 
-Experienced with **HTML, CSS, JavaScript**, currently learning **React**.
+Experienced with **HTML, CSS, JavaScript**, basic **WordPress** website building, and currently learning **React**.
 
 Also skilled in UI design using **Figma** and **Adobe Illustrator**.
 
-Currently working on a project for a driving school business based in New York, USA.
+Currently working on a real-world website project for a driving school business based in New York, USA.
 
 ---
 
@@ -28,7 +36,7 @@ Currently working on a project for a driving school business based in New York, 
 
 #### 💻 Development
 
-<p align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" /></p>
 
 #### 🎨 Design & 3D
 
@@ -38,7 +46,8 @@ Currently working on a project for a driving school business based in New York, 
 
 ### 🚀 Future Growth & Interests
 
-- Focused on frontend development and building user-friendly web interfaces
+- Focused on frontend development and building clean, responsive, user-friendly web interfaces
+- Interested in combining custom frontend development with CMS solutions like WordPress
 - Expanding into backend development with C#, ASP.NET Core and APIs
 - Interested in embedded systems and ESP32 projects
 - Basic Blender knowledge and 3D tools
@@ -53,6 +62,7 @@ Currently working on a project for a driving school business based in New York, 
 - Responsive Web Design
 - Git & GitHub workflow
 - API integration basics
+- WordPress customization
 
 ---
 
@@ -68,6 +78,7 @@ Currently working on a project for a driving school business based in New York, 
 
 - Frontend Internship
 - Junior Frontend Developer opportunities
+- WordPress / website development projects
 - Real-world experience in a development team
 - Opportunities to learn and improve my skills
 
