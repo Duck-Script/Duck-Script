@@ -14,8 +14,9 @@ Computer Science student at WSIZ, Poland.
 
 Focused on frontend development and building responsive, user-friendly websites.
 
-Experienced with **HTML, CSS, JavaScript**, basic **WordPress, Python, SQL** website building, and currently learning **React**.
-Skilled in UI design using **Figma** and **Adobe Illustrator**.
+Experienced with **HTML, CSS, JavaScript**, basic **WordPress** website building, and currently learning **React**.
+Basic knowledge of  **Python, SQL**
+Skilled in UI design using **Figma** and **Adobe Illustrator**. 
 
 ---
 
