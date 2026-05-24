@@ -14,10 +14,8 @@ Computer Science student at WSIZ, Poland.
 
 Focused on frontend development and building responsive, user-friendly websites.
 
-Experienced with **HTML, CSS, JavaScript**, basic **WordPress** website building, and currently learning **React**.
+Experienced with **HTML, CSS, JavaScript**, basic **WordPress, Python, SQL** website building, and currently learning **React**.
 Skilled in UI design using **Figma** and **Adobe Illustrator**.
-
-Currently working on a real-world website project for a driving school business based in New York, USA.
 
 ---
 
@@ -30,6 +28,7 @@ Currently working on a real-world website project for a driving school business 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" />
 </p>
@@ -47,8 +46,12 @@ Currently working on a real-world website project for a driving school business 
 ### 🚀 Future Growth & Interests
 
 - Focused on frontend development and building user-friendly web interfaces
+  
 - Expanding into backend development with C#, ASP.NET Core and APIs
+- Interested in Python for scripting, automation and backend basics
+  
 - Interested in embedded systems and ESP32 projects
+  
 - Basic Blender knowledge and 3D tools
 - Interested in game development and Unity
 
@@ -61,7 +64,6 @@ Currently working on a real-world website project for a driving school business 
 - Responsive Web Design
 - Git & GitHub workflow
 - API integration basics
-- WordPress customization
 
 ---
 
