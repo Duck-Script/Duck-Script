@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center">● Frontend Developer ●</h3>
+<h3 align="center">● Fullstack Developer ●</h3>
 
 <br>
 
