@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center">● Fullstack Developer ●</h3>
+<h3 align="center">● Full-Stack Developer ●</h3>
 
 <br>
 
@@ -12,11 +12,13 @@
 
 Computer Science student at WSIZ, Poland.
 
-Focused on frontend development and building responsive, user-friendly websites.
+Focused on becoming a **Full-Stack Developer** and building responsive, user-friendly web applications.
 
-Experienced with **HTML, CSS, JavaScript**, basic **WordPress** website building, and currently learning **React**.
-Basic knowledge of  **Python, SQL**
-Skilled in UI design using **Figma** and **Adobe Illustrator**. 
+Experienced with **HTML**, **CSS**, **JavaScript**, basic **WordPress** website building, and currently learning **React** for modern frontend development.
+
+Currently developing backend skills by learning **JavaScript for backend development**, **Python**, and **SQL**, with the goal of building complete web applications from **frontend** to **backend**.
+
+Skilled in UI design using **Figma** and **Adobe Illustrator**.
 
 ---
 
@@ -46,40 +48,39 @@ Skilled in UI design using **Figma** and **Adobe Illustrator**.
 
 ### 🚀 Future Growth & Interests
 
-- Focused on frontend development and building user-friendly web interfaces
-  
-- Expanding into backend development with C#, ASP.NET Core and APIs
-- Interested in Python for scripting, automation and backend basics
-  
-- Interested in embedded systems and ESP32 projects
-  
-- Basic Blender knowledge and 3D tools
-- Interested in game development and Unity
+- Focused on **full-stack development** and building user-friendly web applications
+- Expanding backend skills with **JavaScript**, **Python**, **SQL**, **C#**, **ASP.NET Core**, and **APIs**
+- Interested in **Python** for scripting, automation, and backend basics
+- Interested in embedded systems and **ESP32** projects
+- Basic **Blender** knowledge and interest in 3D tools
+- Interested in game development and **Unity**
 
 ---
 
 ### 📚 Currently Learning
 
-- React fundamentals
-- JavaScript ES6+
-- Responsive Web Design
-- Git & GitHub workflow
-- API integration basics
+- **React** fundamentals
+- **JavaScript ES6+**
+- **JavaScript backend development**
+- **Responsive Web Design**
+- **Git & GitHub workflow**
+- **API integration basics**
+- **Python** and **SQL** basics
 
 ---
 
 ### 🌍 Languages
 
-- Polish — B2
-- English — B2
-- Ukrainian — Native
+- **Polish** — B2
+- **English** — B2
+- **Ukrainian** — Native
 
 ---
 
 ### 🎯 What I'm Looking For
 
-- Frontend Internship
-- Junior Frontend Developer opportunities
+- **Frontend Internship**
+- **Junior Frontend Developer** opportunities
 - Real-world experience in a development team
 - Opportunities to learn and improve my skills
 
