@@ -57,18 +57,6 @@ Skilled in UI design using **Figma** and **Adobe Illustrator**.
 
 ---
 
-### 📚 Currently Learning
-
-- **React** fundamentals
-- **JavaScript ES6+**
-- **JavaScript backend development**
-- **Responsive Web Design**
-- **Git & GitHub workflow**
-- **API integration basics**
-- **Python** and **SQL** basics
-
----
-
 ### 🌍 Languages
 
 - **Polish** — B2
