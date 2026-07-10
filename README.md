@@ -1,80 +1,126 @@
-<h1 align="center">Ahoy! 🏴‍☠️</h1>
+<div align="center">
 
-<br>
+# Ahoy, I'm Anthony 🦆
 
-<h3 align="center">● Full-Stack Developer ●</h3>
+**Full-Stack oriented developer**
 
-<br>
-
----
-
-### 👨‍💻 About Me
-
-Computer Science student at WSIZ, Poland.
-
-Focused on becoming a **Full-Stack Developer** and building responsive, user-friendly web applications.
-
-Experienced with **HTML**, **CSS**, **JavaScript**, basic **WordPress** website building, and currently learning **React** for modern frontend development.
-
-Currently developing backend skills by learning **JavaScript for backend development**, **Python**, and **SQL**, with the goal of building complete web applications from **frontend** to **backend**.
-
-Skilled in UI design using **Figma** and **Adobe Illustrator**.
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
+I build responsive web apps, focusing on clean UI, API integration, and practical full-stack growth.
 
-#### 💻 Development
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" />
+## Current focus
+
+Currently gaining practical experience through an internship at <img src="https://www.google.com/s2/favicons?domain=mayam.pl&sz=16" height="14" style="vertical-align:middle;" /> **[Mayam](https://mayam.pl)**. Open to junior frontend or full-stack opportunities where I can contribute to real projects and keep growing.
+
+---
+
+## Tech Stack
+
+### Working with
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-#### 🎨 Design & 3D
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+</p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="42" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="42" />
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+</p>
+
+### Furthering my knowledge
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+</p>
+
+### Learning / exploring
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-323330?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Future Growth & Interests
+## AI-assisted workflow
 
-- Focused on **full-stack development** and building user-friendly web applications
-- Expanding backend skills with **JavaScript**, **Python**, **SQL**, **C#**, **ASP.NET Core**, and **APIs**
-- Interested in **Python** for scripting, automation, and backend basics
-- Interested in embedded systems and **ESP32** projects
-- Basic **Blender** knowledge and interest in 3D tools
-- Interested in game development and **Unity**
+I use AI tools as part of my development workflow - for planning features, debugging, code review and writing documentation. The final code is read, tested, and integrated by me.
 
----
+**Tools I work with:**
 
-### 🌍 Languages
-
-- **Polish** — B2
-- **English** — B2
-- **Ukrainian** — Native
-
----
-
-### 🎯 What I'm Looking For
-
-- **Frontend Internship**
-- **Junior Frontend Developer** opportunities
-- Real-world experience in a development team
-- Opportunities to learn and improve my skills
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=github&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Contact
+## Interests
 
-- 📍 Based in Poland, open to remote opportunities
-- ✉️ Email: [coffymacochino@gmail.com](mailto:coffymacochino@gmail.com)
+Web development · Full-stack apps · UI/UX and product design · Automation and internal tools · AI-assisted development · ESP32 / embedded / IoT · Game development · 3D / Blender
+
+---
+
+## Languages
+
+| Language | Level |
+|---|---|
+| Ukrainian | Native |
+| English | B2 |
+| Polish | B2 |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duck-Script&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duck-Script&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+📍 Based in Poland · open to remote / hybrid  
+📬 [duckandscript@gmail.com](mailto:duckandscript@gmail.com)
