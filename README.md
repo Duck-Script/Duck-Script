@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahoy, I'm Anthony 🦆
+# Ahoy!
 
 **Full-Stack oriented developer**
 
@@ -9,8 +9,9 @@
 ---
 
 I build responsive web apps, focusing on clean UI, API integration, and practical full-stack growth.
-
----
+<div align="center">
+  <img src="https://media.giphy.com/media/xUn3CdoxxuzV5J6X5u/giphy.gif" width="100%" alt="NASA space gif" />
+</div>
 
 ## Current focus
 
@@ -99,7 +100,7 @@ Web development · Full-stack apps · UI/UX and product design · Automation and
 ---
 
 ## Languages
-
+  
 | Language | Level |
 |---|---|
 | Ukrainian | Native |
@@ -108,19 +109,11 @@ Web development · Full-stack apps · UI/UX and product design · Automation and
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duck-Script&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Duck-Script&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
+  
 ## Contact
 
 📍 Based in Poland · open to remote / hybrid  
 📬 [duckandscript@gmail.com](mailto:duckandscript@gmail.com)
+
+</div>
