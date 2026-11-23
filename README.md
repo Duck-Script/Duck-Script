@@ -1,7 +1,5 @@
 <div align="center">
 
-# Ahoy!
-
 **Software Developer**
 
 Software development · Automation · Exploring new technologies
