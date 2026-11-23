@@ -2,7 +2,7 @@
 
 **Software Developer**
 
-Software development · Automation · Exploring new technologies
+Development · Automation · Exploring new technologies
 
 </div>
 
